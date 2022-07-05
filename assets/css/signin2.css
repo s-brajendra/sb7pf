@@ -1,0 +1,10 @@
+#sectiion{
+    background-color: aquamarine;
+}
+body{
+    padding-top: 100px;
+}
+.same-line{
+
+    display: inline !important;
+}
