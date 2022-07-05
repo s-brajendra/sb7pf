@@ -3,6 +3,7 @@
 const express = require('express');
 const port = process.env.PORT || 8000;
 
+require("dotenv").config();
  
 const expressLayouts = require('express-ejs-layouts');
 //(13)
