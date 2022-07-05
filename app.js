@@ -1,7 +1,7 @@
 //(0) npm init
 //(1) inculding imp packages and defining locat port
 const express = require('express');
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8080;
 
 require("dotenv").config();
  
